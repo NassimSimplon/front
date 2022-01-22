@@ -1,0 +1,48 @@
+#all-links{
+    margin-left: 7.2rem;
+}
+ 
+#profile-nav{
+    margin-left: 8rem;
+    display:flex;
+    flex-direction:row;
+ }
+#profile-img{
+    width:3rem;
+    height:3rem;
+    color:white; 
+     border-radius:50%;
+    background-color:rgb(255, 255, 255);
+    margin-bottom:7px;
+ 
+}
+
+ 
+.jari{
+    display:flex;
+    flex-direction:row;
+      padding:2px;
+      align-items: flex-end;
+      margin-top:-0.3rem;
+      margin-left: 5rem;
+ 
+
+ }
+ #tit-profile{
+     font-size:4.5rem;
+     margin-left:7rem;
+     margin-top: 13rem;
+ }
+#profile-name{
+        font-size:20px;
+        color:white;
+   border-left: black 2px solid;
+  margin-top:8px;
+  margin-left: 5px;
+  padding-left: 5px;
+
+}
+
+span{
+    white-space: pre-wrap;
+}
